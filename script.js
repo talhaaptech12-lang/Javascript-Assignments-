@@ -185,4 +185,36 @@
 //     console.log("error!")
 // }
 
+// question No. 2
+// var integ1 = Number(prompt("enter 1st number"))
+// var integ2 = Number(prompt("enter 2nd number"))
 
+// if(integ1 > integ2){
+//     console.log("1st interger is larger " + integ1)
+// }else if(integ2 > integ1){
+// console.log("2nd integere is greater " + integ2)
+// }
+
+// else if( integ1 === integ2){
+//     console.log("both are equal")
+// }
+
+
+// Quesion no. 3
+//  var num= Number(prompt("enter a number"))
+
+//  if(num > 0){
+//     console.log("its a positive num")
+//  }else if(num < 0){
+//     console.log("its a negative number")
+//  }else if(num === 0){
+//     console.log("its a zero")
+//  }
+
+// var character = prompt("enter a letter")
+
+// if (character === 'a' || character === 'e' || character === "i" || character === "o" || character === "u"){
+//     console.log(true)
+// }else{
+// console.log(false)
+// }

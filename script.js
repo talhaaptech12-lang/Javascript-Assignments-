@@ -81,29 +81,108 @@
 
 // Question No. 6
 
-var subject1 = Number(prompt("Enter your Number"))
-var subject2 = Number(prompt("Enter your Number"))
-var subject3 = Number(prompt("Enter your Number"))
+// var subject1 = Number(prompt("Enter your Number"))
+// var subject2 = Number(prompt("Enter your Number"))
+// var subject3 = Number(prompt("Enter your Number"))
 
-var totalMarks = 300;
-var marksObtained = subject1 + subject2 + subject3;
-var percentage = marksObtained / totalMarks * 100;
-
-
-console.log(totalMarks)
-console.log(marksObtained)
-console.log(percentage)
+// var totalMarks = 300;
+// var marksObtained = subject1 + subject2 + subject3;
+// var percentage = marksObtained / totalMarks * 100;
 
 
-if (percentage >= 80) {
-    console.log("Grade A+")
-}else if(percentage >= 70){
-    console.log("Grade A")
-}else if(percentage >= 60){
-    console.log("Grade B")
-}else{
-    console.log("Fail")
-}
+// console.log(totalMarks)
+// console.log(marksObtained)
+// console.log(percentage)
 
+
+// if (percentage >= 80) {
+//     console.log("Grade A+")
+// }else if(percentage >= 70){
+//     console.log("Grade A")
+// }else if(percentage >= 60){
+//     console.log("Grade B")
+// }else{
+//     console.log("Fail")
+// }
+
+// Question No. 7
+
+// var secretNum = 3;
+// var userInput = Number(prompt("Guess a number"))
+
+// if(userInput === secretNum){
+//     console.log("Bingo Correct answer")
+// }else if(++userInput === secretNum){
+//     console.log("Close enough to correct answer")
+// }else{
+//     console.log("try again!")
+// }
+
+
+// Question No. 8
+
+// var userNum = Number(prompt("Enter a number"))
+
+// if(userNum % 3 === 0){
+//     console.log("it is divsible by 3")
+// }else{
+//     console.log("not divisible by 3")
+// }
+
+// Question No. 9 
+
+// var usernum= Number(prompt("Enter a number"))
+
+// if(usernum % 2 === 0 ){
+//     console.log("its an even number")
+// }else{
+//     console.log("its an odd number")
+// }
+
+// var temperature = Number(prompt("enter a temperature"))
+
+// if(temperature >= 40 ){
+//     console.log("its too hot outside")
+// }else if(temperature >= 30){
+//     console.log("the weather is normal today")
+// }else if(temperature >= 20){
+//     console.log("today weather is cool")
+// }else{
+//     console.log("OMG! today weather is too cool")
+// }
+
+// quesiton 11
+
+// var firstNumber = Number(prompt("Enter a 1st number"));
+// var secondNumber = Number(prompt("Enter a 2nd number"));
+
+// var sum = firstNumber + secondNumber;
+// if(sum === firstNumber + secondNumber){
+//     console.log(sum)
+// }else{
+//     console.log("error!")
+// }
+
+
+// var multiply = firstNumber * secondNumber;
+// if(multiply === firstNumber * secondNumber){
+//     console.log(multiply)
+// }else{
+//     console.log("error!")
+// }
+
+// var division = firstNumber / secondNumber;
+// if(division === firstNumber / secondNumber){
+//     console.log(division)
+// }else{
+//     console.log("error!")
+// }
+
+// var subtract = firstNumber - secondNumber;
+// if(subtract === firstNumber - secondNumber){
+//     console.log(subtract)
+// }else{
+//     console.log("error!")
+// }
 
 

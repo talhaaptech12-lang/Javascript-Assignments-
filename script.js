@@ -218,3 +218,41 @@
 // }else{
 // console.log(false)
 // }
+
+// Question No.5
+
+// var password = "Haleema12";
+// var userPassword = prompt("Enter your Password")
+
+// if(userPassword === ""){
+//     console.log("Please Enter Password")
+// }
+// else if(password !== userPassword){
+//    console.log("Incorrect Password")
+// }else if(userPassword === password){
+//      console.log("correct password")
+// }
+
+// question No. 6
+
+// var greeting;
+// var hour = 13;
+// if(hour < 18){
+//     greeting= "good morning"
+//     console.log(greeting)
+// }else{
+//     greeting = "good evening"
+//     console.log(greeting)
+// }
+
+// var userTime = Number(prompt("enter a time in 24 hours format"))
+
+// if(userTime < 1200 ){
+//     console.log(userTime + "AM")
+// }else if (userTime == 1200){
+//     console.log("after noon")
+// }else if(userTime > 1200){
+//     console.log(userTime + "PM")
+// }else{
+//     console.log("invalid time")
+// }
